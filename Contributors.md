@@ -5323,6 +5323,7 @@ Stephan Sharpe
 - [Thomas Cheng](https://github.com/tomh12player)
 - [Mohit Yadav](https://github.com/mohityadav7)
 - Kuman Vaghasiya
+- [Enoch Sim](https://github.com/esim23)
 - [Myles Brown](https://github.com/Myles2)
 - [Luo Jian](https://github.com/JamieLuo)
 - [Paresh Agrawal](https://github.com/paresh-agrawal)
