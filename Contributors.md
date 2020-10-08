@@ -13911,6 +13911,7 @@ Stephan Sharpe
 - [Mahmood Hussain](https://github.com/Mahmood-Hussain/)
 - [Hiep Nguyen](https://github.com/hiepndd/)
 - Octavian
+- [Enoch Sim](https://github.com/esim23/)
 - [Alok Raj](https://github.com/alok722)
 - [Alessandro Melo](https://github.com/Alessandro2702/)
 - klance
